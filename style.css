@@ -1,0 +1,21 @@
+body{
+  margin:0;
+  overflow: hidden;
+  background: radial-gradient(#0b0b16, #000);
+  font-family: 'Georgia',serif;
+  color: white;
+}
+
+#overlay{
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+  z-index: 10;
+}
+
+canvas{
+  position:fixed;
+  top:0;
+  left: 0;
+}
