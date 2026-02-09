@@ -1,0 +1,27 @@
+{
+  "name": "3d-flower-web",
+  "version": "1.0.0",
+  "description": "- Theme: pink  - Flower: single pink lilly  - Mood: calm, elegant  - Reference: POLA-style restraint",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaAtMMan/3d-flower-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BaAtMMan/3d-flower-web/issues"
+  },
+  "homepage": "https://github.com/BaAtMMan/3d-flower-web#readme",
+  "dependencies": {
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
